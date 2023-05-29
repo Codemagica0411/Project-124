@@ -1,0 +1,29 @@
+h3 {
+    font-size: 100px;
+    box-shadow: 5px 5px 5px black;
+    font-weight:bold;
+    padding: 10px;
+    margin: 10px;
+}
+
+.copy_right_footer {
+    position: fixed;
+    color: white;
+    bottom: 0;
+    width:100%;
+    background-color:grey;
+    text-align: center;
+}
+
+.note {
+    font-size: 75px;
+    color: black;
+    font-weight:bold;
+    box-shadow: 5px 5px 5px black;
+    background-color: white;
+}
+
+canvas {
+    background: pink;
+	border-radius: 20px;
+}
